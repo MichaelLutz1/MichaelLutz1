@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An aspiring Computer Science student from Delaware</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
 - 🔭 I’m currently working on **Interactive LED Matrix**
 
