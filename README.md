@@ -2,16 +2,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An aspiring Computer Science student from Delaware</h3>
 
-- 🔭 I’m currently working on **Interactive LED Matrix**
-
-- 🌱 I’m currently learning **Web hosting with a Raspberry Pi**
-
-- 👨‍💻 All of my projects are available at [michaellutz1.github.io](https://michaellutz1.github.io/)
-
-- 📫 Reach me at **mikelutz2400@gmail.com**
-
-- ⚡ Fun fact **I know how to traditional German folk dance**
-
 <h3 align="left">Here is my LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael-lutz-7a6271230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-lutz-7a6271230" height="30" width="40" /></a>
