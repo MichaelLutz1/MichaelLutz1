@@ -1,5 +1,5 @@
 
-<h1 align="center">Yo, I'm Michael</h1>
+<h1 align="center">Hey, I'm Michael</h1>
 <h3 align="center">An aspiring Computer Science student from Delaware</h3>
 
 
